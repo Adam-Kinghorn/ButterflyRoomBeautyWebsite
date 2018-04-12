@@ -1,0 +1,68 @@
+
+.carousel-item{
+	height:600px;
+}
+
+.carousel-image-1{
+	background: url('images/image1.jpeg');
+	background-size: cover;
+	background-position: center;
+}
+
+.carousel-image-2{
+	background: url('images/image2.jpg');
+	background-size: cover;
+	background-position: center;
+}
+.carousel-image-3{
+	background: url('images/image3.jpeg');
+	background-size: cover;
+	background-position: center;
+}
+.navbar{
+	border-bottom: 3px solid #8E44AD;
+}
+.navbar a.navbar-brand{
+	font-size: 28px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color: #8E44AD;
+}
+
+.nav-link{
+	font-size: 16px;
+	padding-left: 1em !important;
+	padding-right: 1em !important;
+}
+
+.nav-item.active{
+	border-left: #8E44AD 3px solid;
+	color: #8E44AD;
+}
+
+.display-3{
+	font-weight:bold;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+
+.fa{
+	color: #8E44AD;
+}
+
+#main-footer{
+	color: #fff;
+}
+
+.container img {
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+}
+
+#about-section h3{
+	text-align: center;
+}
